@@ -20,41 +20,9 @@
 
 </div>
 
----
 
-# 🚀 About Me
 
-```javascript
-const developer = {
-    role: "Full Stack Developer",
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Next.js"
-    ],
-
-    backend: [
-        "Node.js"
-    ],
-
-    databases: [
-        "PostgreSQL",
-        "SQL",
-        "NoSQL"
-    ],
-
-    focus: [
-        "Modern UI",
-        "Responsive Design",
-        "Performance",
-        "Scalable Applications"
-    ]
-}
-```
-
----
 
 # ⚡ Tech Stack
 
@@ -150,17 +118,7 @@ NoSQL Database     ███████████████░░░░░ 
 
 ---
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
 
 <div align="center">
 
